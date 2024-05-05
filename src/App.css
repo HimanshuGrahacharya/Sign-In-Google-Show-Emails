@@ -1,0 +1,17 @@
+.App{
+    border: solid 1px rgba(180, 180, 196, 0.304);
+    width: 50vh;
+    height: 50vh;
+    box-shadow: 1px 4px 4px 3px rgb(216, 102, 180);
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2vh;
+}
+
+body{
+   background-color: rgb(213, 161, 120);
+   border-radius: 30px;
+
+}
